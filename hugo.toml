@@ -1,5 +1,5 @@
-baseURL = 'http://localhost'
-languageCode = 'ja-jp'
+baseURL = 'https://tomohiro-kobayashi.github.io/techblog'
+languageCode = 'ja'
 title = 'Tomo Tech Blog'
 
 paginate = 10
