@@ -19,8 +19,8 @@
                         <a href={{ .Permalink }}> {{ .Name }} </a>
                     {{ end}}
                 </span>
-                <time>{{ dateFormat .Site.Params.dateFormat .Date}}</time>
             </div>
+            <time>{{ dateFormat .Site.Params.dateFormat .Date}}</time>
             <div class="listItemCategories">
                 {{ range (.GetTerms "categories") }}
                 <a class="listItemCategory" href={{ .Permalink }}>#{{ .Name }}</a>

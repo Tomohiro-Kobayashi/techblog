@@ -24,7 +24,7 @@ a {
 }
 
 .container {
-    max-width: 1866px;
+    max-width: 100%;
     padding-left: 50px;
     padding-right: 50px;
     margin: auto;
@@ -41,6 +41,7 @@ a {
     position: sticky;
     top: 0;
     padding-bottom: 20px;
+    
 
 }
 
@@ -99,11 +100,14 @@ a {
 
 /* list start */
 .listItem {
+    width: 100%;
     display: flex;
     align-items: center;
     gap: 30px;
     margin-bottom: 20px;
     border-radius: 10px;
+    box-shadow: 0px 0px 15px -5px #777777;
+    padding: 10px;
 
 }
 
@@ -120,11 +124,20 @@ a {
     gap: 10px;
 }
 
+.listItemTexts time{
+    font-size: 12px;
+}
+
 .listItemDetail {
     display: flex;
     align-items: center;
     gap: 10px;
     font-size: 14px;
+}
+
+.listItemDesc {
+    max-width: 40vw;
+    overflow-wrap: break-word;   
 }
 
 .listItemAvatar {
@@ -194,6 +207,7 @@ a {
     display: flex;
     flex-direction: column;
     gap: 20px;
+    width: 100%;
 }
 
 .singleHeadTitle{
@@ -203,6 +217,8 @@ a {
 .singleHeadDesc{
     font-size: 20px;
     font-weight: 300;
+    max-width: 40vw;
+    overflow-wrap: break-word;  
 }
 
 .singleHeadDetail {
@@ -322,6 +338,7 @@ a {
     .container {
         max-width: 1366px;
     }
+
 }
 
 @media (max-width:1336px) {
@@ -330,10 +347,13 @@ a {
     }
 }
 
+
+
 @media (max-width:1280px) {
     .container {
         max-width: 1024px;
     }
+
 }
 
 @media (max-width:1024px) {
@@ -343,15 +363,18 @@ a {
         padding-right: 10px;
     }
 
-
     .listItemImage{
-        width: 150px;
+        width: 200px;
         height: 150px;
         object-fit: cover;
     }
 
     .singleHead {
         flex-direction: column-reverse;
+    }
+
+    .singleHeadDesc{
+        max-width: 80vw;
     }
 
     .singleBottom{
@@ -385,6 +408,12 @@ a {
 @media (max-width:640px) {
     .container {
         max-width: 475px;
+    }
+
+    .listItemImage{
+        width: 150px;
+        height: 120px;
+        object-fit: cover;
     }
 
         /* navbar start */

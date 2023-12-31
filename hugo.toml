@@ -6,7 +6,7 @@ paginate = 10
 
 [params]
   description = "The fastest blog"
-  dateFormat = "2006/1/06  (Monday)" 
+  dateFormat = "2006/1/2 (Mon)" 
 
 [taxonomies]
   category = "categories"
