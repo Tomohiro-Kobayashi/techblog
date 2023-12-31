@@ -2,7 +2,7 @@
 title = 'Test'
 date = 2023-12-31T18:01:42+09:00
 draft = false
-description = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffaaaaaaaa"
+description = ""
 image = "https://tomohiro-kobayashi.github.io/techblog/images/noimage.webp"
 imageBig = "https://tomohiro-kobayashi.github.io/techblog/images/noimage.webp"
 categories = ["general"]
