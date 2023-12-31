@@ -5,7 +5,7 @@ draft = false
 description = ""
 image = "https://tomohiro-kobayashi.github.io/techblog/images/noimage.webp"
 imageBig = "https://tomohiro-kobayashi.github.io/techblog/images/noimage.webp"
-categories = ["general"]
+categories = ["general", "Python"]
 authors = ["Tomohiro"]
 avatar = "https://tomohiro-kobayashi.github.io/techblog/images/icon.webp"
 +++

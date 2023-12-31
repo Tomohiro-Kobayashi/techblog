@@ -1,9 +1,9 @@
 {{define "main"}}
 
-{{ if eq .RelPermalink "/categories/"}}
+{{ if eq .RelPermalink "/techblog/categories/"}}
 {{ range $.Site.Taxonomies.categories.ByCount }}
 <div class="genreList">
-    <a  href="/categories/{{ .Name }}">
+    <a  href="/techblog/categories/{{ .Name }}">
         # {{ .Name }} <small>({{ .Count }})</small>
     </a>
 </div>
@@ -12,6 +12,9 @@
 {{ else }}
 
 <div class="list">
+    {{/*  <div class="">
+        {{partial "hero" .}}
+    </div>  */}}
     {{range .Paginator.Pages}}
      <div class="listItem">
         <img src={{ .Params.image }} alt={{ .Title }} class="listItemImage" loading="lazy">
@@ -27,8 +30,8 @@
                         <a href={{ .Permalink }}> {{ .Name }} </a>
                     {{ end}}
                 </span>
-                <time>{{ dateFormat .Site.Params.dateFormat .Date}}</time>
             </div>
+            <time>{{ dateFormat .Site.Params.dateFormat .Date}}</time>
             <div class="listItemCategories">
                 {{ range (.GetTerms "categories") }}
                 <a class="listItemCategory" href={{ .Permalink }}>#{{ .Name }}</a>
