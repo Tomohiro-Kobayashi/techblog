@@ -190,7 +190,7 @@ a {
     font-size: 14px;
     padding: 5px;
     border-radius: 5px;
-    background-color: var(--bgSoft);
+    background-color: var(--mainColor);
     color: var(--textSoft);
 } 
 
@@ -267,18 +267,20 @@ a {
     border-radius: 50%;
     object-fit: cover;
 }
+
 .singleTag {
-    width: 350px;
+   
 }
 
 .singleTag a{
     margin: 2px;
+    font-size: 20px;
 }
 
 .singleCategory  {
     padding: 5px;
     border-radius: 5px;
-    background-color: var(--bgSoft);
+    background-color: var(--mainColor);
     color: var(--textSoft);
     font-size: small;
 }
@@ -356,6 +358,9 @@ a {
 .singleContent img{
     width: 100%;
     object-fit: cover;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid var(--textSoft);
 }
 
 .singleRightBar{
@@ -370,7 +375,6 @@ a {
 .rightBar{
     position: sticky;
     top: 100px;
-    z-index: -1;
 }
 
 .rightBarImg{
@@ -388,7 +392,6 @@ a {
     background-color: var(--subColor);
     border-radius: 5px;
     padding: 10px;
-
 }
 /* right bat end */
 
@@ -420,16 +423,6 @@ a {
     .container {
         max-width: 1024px;
     }
-
-}
-
-@media (max-width:1024px) {
-    .container {
-        max-width: 768px;
-        padding-left: 10px;
-        padding-right: 10px;
-    }
-
     .listItemImage{
         width: 150px;
         height: 100px;
@@ -470,6 +463,16 @@ a {
         display: block;
         width: 100%;
     }
+
+}
+
+@media (max-width:1024px) {
+    .container {
+        max-width: 768px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
 }
 
 @media (max-width:768px) {
