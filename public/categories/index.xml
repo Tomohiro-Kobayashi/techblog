@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tomo Tech Blog</title>
+    <link>https://tomohiro-kobayashi.github.io/categories/</link>
+    <description>Recent content in Categories on Tomo Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 31 Dec 2023 03:35:39 +0900</lastBuildDate>
+    <atom:link href="https://tomohiro-kobayashi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>general</title>
+      <link>https://tomohiro-kobayashi.github.io/categories/general/</link>
+      <pubDate>Sun, 31 Dec 2023 03:35:39 +0900</pubDate>
+      <guid>https://tomohiro-kobayashi.github.io/categories/general/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AWS</title>
+      <link>https://tomohiro-kobayashi.github.io/categories/aws/</link>
+      <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
+      <guid>https://tomohiro-kobayashi.github.io/categories/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>blog</title>
+      <link>https://tomohiro-kobayashi.github.io/categories/blog/</link>
+      <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
+      <guid>https://tomohiro-kobayashi.github.io/categories/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>coding</title>
+      <link>https://tomohiro-kobayashi.github.io/categories/coding/</link>
+      <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
+      <guid>https://tomohiro-kobayashi.github.io/categories/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://tomohiro-kobayashi.github.io/categories/docker/</link>
+      <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
+      <guid>https://tomohiro-kobayashi.github.io/categories/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>https://tomohiro-kobayashi.github.io/categories/javascript/</link>
+      <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
+      <guid>https://tomohiro-kobayashi.github.io/categories/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>life</title>
+      <link>https://tomohiro-kobayashi.github.io/categories/life/</link>
+      <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
+      <guid>https://tomohiro-kobayashi.github.io/categories/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://tomohiro-kobayashi.github.io/categories/linux/</link>
+      <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
+      <guid>https://tomohiro-kobayashi.github.io/categories/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>metal</title>
+      <link>https://tomohiro-kobayashi.github.io/categories/metal/</link>
+      <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
+      <guid>https://tomohiro-kobayashi.github.io/categories/metal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>music</title>
+      <link>https://tomohiro-kobayashi.github.io/categories/music/</link>
+      <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
+      <guid>https://tomohiro-kobayashi.github.io/categories/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://tomohiro-kobayashi.github.io/categories/python/</link>
+      <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
+      <guid>https://tomohiro-kobayashi.github.io/categories/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://tomohiro-kobayashi.github.io/categories/test/</link>
+      <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
+      <guid>https://tomohiro-kobayashi.github.io/categories/test/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

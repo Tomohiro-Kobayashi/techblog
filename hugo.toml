@@ -1,0 +1,13 @@
+baseURL = 'http://localhost'
+languageCode = 'ja-jp'
+title = 'Tomo Tech Blog'
+
+paginate = 10
+
+[params]
+  description = "The fastest blog"
+  dateFormat = "2006/1/06  (Monday)" 
+
+[taxonomies]
+  category = "categories"
+  author = "authors"

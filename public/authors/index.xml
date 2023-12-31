@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Tomo Tech Blog</title>
+    <link>https://tomohiro-kobayashi.github.io/authors/</link>
+    <description>Recent content in Authors on Tomo Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 31 Dec 2023 03:35:39 +0900</lastBuildDate>
+    <atom:link href="https://tomohiro-kobayashi.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tomohiro</title>
+      <link>https://tomohiro-kobayashi.github.io/authors/tomohiro/</link>
+      <pubDate>Sun, 31 Dec 2023 03:35:39 +0900</pubDate>
+      <guid>https://tomohiro-kobayashi.github.io/authors/tomohiro/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+<div class="rightBar">
+    {{/*  <img src="/images/ads.webp" alt="ad" class="rightBarImg" >
+    <img src="/images/adh.webp" alt="ad" class="rightBarImgHr" >  */}}
+    <div class="agendaContainer">
+        
+        {{- $TOC_EMPTY := "<nav id=\"TableOfContents\"></nav>" -}}
+        
+        {{- if ne .TableOfContents $TOC_EMPTY -}}
+        {{- .TableOfContents -}}
+        {{- end -}}
+    </div>
+</div>
