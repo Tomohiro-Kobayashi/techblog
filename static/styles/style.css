@@ -488,9 +488,10 @@ a {
     .container {
         max-width: 640px;
     }
-    /* .singleHeadImg{
-        max-width: 300px;
-    } */
+    .singleHeadImg{
+        max-width: 200px;
+        max-height: 150px;
+    }
 
     .listItemImage{
         display: none;
