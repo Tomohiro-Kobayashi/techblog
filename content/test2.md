@@ -9,3 +9,6 @@ categories = ["general"]
 authors = ["Tomohiro"]
 avatar = "https://tomohiro-kobayashi.github.io/techblog/images/icon.webp"
 +++
+
+
+![Alt text](image.png)

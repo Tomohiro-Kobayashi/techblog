@@ -41,6 +41,7 @@ a {
     position: sticky;
     top: 0;
     padding-bottom: 20px;
+
 }
 
 .navbar {
@@ -49,6 +50,7 @@ a {
     justify-content: space-between;
     height: 80px;
     background-color: var(--mainColor);
+
 }
 
 .logo {
@@ -180,6 +182,7 @@ a {
 /* single start */
 
 .singleHead{
+ 
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -229,7 +232,8 @@ a {
 
 .singleHeadImg{
     flex: 1;
-    max-height: 450px;
+    max-height: 350px;
+
     object-fit: cover;
     border-radius: 10px;
 }
@@ -368,7 +372,9 @@ a {
     .container {
         max-width: 640px;
     }
-
+    .singleHeadImg{
+        max-width: 300px;
+    }
 
     .links {
         font-size: 14px;
@@ -383,9 +389,9 @@ a {
 
         /* navbar start */
 
-        .logo {
-            font-size: 18px;
-        }
+    .logo {
+        font-size: 18px;
+    }
     
         /* navbar end */
 }
