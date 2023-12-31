@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tomohiro-kobayashi.github.io/authors/</loc>
+    <loc>http://localhost/authors/</loc>
     <lastmod>2023-12-31T03:35:39+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/categories/</loc>
+    <loc>http://localhost/categories/</loc>
     <lastmod>2023-12-31T03:35:39+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/categories/general/</loc>
+    <loc>http://localhost/categories/general/</loc>
     <lastmod>2023-12-31T03:35:39+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/my-test7-repo/</loc>
+    <loc>http://localhost/my-test7-repo/</loc>
     <lastmod>2023-12-31T03:35:39+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/</loc>
+    <loc>http://localhost/</loc>
     <lastmod>2023-12-31T03:35:39+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/authors/tomohiro/</loc>
+    <loc>http://localhost/authors/tomohiro/</loc>
     <lastmod>2023-12-31T03:35:39+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/my-test66-repo/</loc>
+    <loc>http://localhost/my-test66-repo/</loc>
     <lastmod>2023-12-31T03:35:36+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/my-test5-repo/</loc>
+    <loc>http://localhost/my-test5-repo/</loc>
     <lastmod>2023-12-31T03:35:33+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/my-test4-repo/</loc>
+    <loc>http://localhost/my-test4-repo/</loc>
     <lastmod>2023-12-31T03:35:30+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/my-test3-repo/</loc>
+    <loc>http://localhost/my-test3-repo/</loc>
     <lastmod>2023-12-31T03:35:27+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/my-test2-repo/</loc>
+    <loc>http://localhost/my-test2-repo/</loc>
     <lastmod>2023-12-31T03:30:44+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/my-test-repo/</loc>
+    <loc>http://localhost/my-test-repo/</loc>
     <lastmod>2023-12-31T03:27:30+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/categories/aws/</loc>
+    <loc>http://localhost/categories/aws/</loc>
     <lastmod>2023-12-30T23:36:44+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/categories/blog/</loc>
+    <loc>http://localhost/categories/blog/</loc>
     <lastmod>2023-12-30T23:36:44+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/categories/coding/</loc>
+    <loc>http://localhost/categories/coding/</loc>
     <lastmod>2023-12-30T23:36:44+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/categories/docker/</loc>
+    <loc>http://localhost/categories/docker/</loc>
     <lastmod>2023-12-30T23:36:44+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/categories/javascript/</loc>
+    <loc>http://localhost/categories/javascript/</loc>
     <lastmod>2023-12-30T23:36:44+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/categories/life/</loc>
+    <loc>http://localhost/categories/life/</loc>
     <lastmod>2023-12-30T23:36:44+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/categories/linux/</loc>
+    <loc>http://localhost/categories/linux/</loc>
     <lastmod>2023-12-30T23:36:44+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/categories/metal/</loc>
+    <loc>http://localhost/categories/metal/</loc>
     <lastmod>2023-12-30T23:36:44+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/categories/music/</loc>
+    <loc>http://localhost/categories/music/</loc>
     <lastmod>2023-12-30T23:36:44+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/my-fipth-repo/</loc>
+    <loc>http://localhost/my-fipth-repo/</loc>
     <lastmod>2023-12-30T23:36:44+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/my-forth-repo/</loc>
+    <loc>http://localhost/my-forth-repo/</loc>
     <lastmod>2023-12-30T23:36:44+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/my-second-repo/</loc>
+    <loc>http://localhost/my-second-repo/</loc>
     <lastmod>2023-12-30T23:36:44+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/my-third-repo/</loc>
+    <loc>http://localhost/my-third-repo/</loc>
     <lastmod>2023-12-30T23:36:44+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/my-first-repo/</loc>
+    <loc>http://localhost/my-first-repo/</loc>
     <lastmod>2023-12-30T23:36:44+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/categories/python/</loc>
+    <loc>http://localhost/categories/python/</loc>
     <lastmod>2023-12-30T23:36:44+09:00</lastmod>
   </url><url>
-    <loc>https://tomohiro-kobayashi.github.io/categories/test/</loc>
+    <loc>http://localhost/categories/test/</loc>
     <lastmod>2023-12-30T23:36:44+09:00</lastmod>
   </url>
 </urlset>

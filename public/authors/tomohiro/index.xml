@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tomohiro on Tomo Tech Blog</title>
-    <link>https://tomohiro-kobayashi.github.io/authors/tomohiro/</link>
+    <link>http://localhost/authors/tomohiro/</link>
     <description>Recent content in Tomohiro on Tomo Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 31 Dec 2023 03:35:39 +0900</lastBuildDate>
-    <atom:link href="https://tomohiro-kobayashi.github.io/authors/tomohiro/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost/authors/tomohiro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Test7 Repo</title>
-      <link>https://tomohiro-kobayashi.github.io/my-test7-repo/</link>
+      <link>http://localhost/my-test7-repo/</link>
       <pubDate>Sun, 31 Dec 2023 03:35:39 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/my-test7-repo/</guid>
+      <guid>http://localhost/my-test7-repo/</guid>
       <description>見出し1 markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
 見出し2 markdownサンプル文章です。ここは地の文です。
@@ -28,27 +28,27 @@ markdownでは、箇条書きは*や-などの記号を文頭に置くことで�
     </item>
     <item>
       <title>My Test66 Repo</title>
-      <link>https://tomohiro-kobayashi.github.io/my-test66-repo/</link>
+      <link>http://localhost/my-test66-repo/</link>
       <pubDate>Sun, 31 Dec 2023 03:35:36 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/my-test66-repo/</guid>
+      <guid>http://localhost/my-test66-repo/</guid>
       <description>見出し1 markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
-見出し2 markdownサンプル文章です。ここは地の文です。
+見出し2テスト markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
-見出し1 markdownサンプル文章です。ここは地の文です。
+markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
-見出し3 markdownサンプル文章です。ここは地の文です。
+見出し3 テスト markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
-見出し4 markdownサンプル文章です。ここは地の文です。
+markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
 これはひとつめの箇条書き ふたつめの箇条書き 一つ階層が深い箇条書き みっつめの箇条書き コード 3つのバッククォート記号でくくることで、コード例を示します
 [ozuma@vpscon ~]$ cp a cp: missing destination file operand after `a&amp;#39; Try `cp --help&amp;#39; for more information. from fastapi import FastAPI from fastapi.responses import JSONResponse from fastapi.encoders import jsonable_encoder from fastapi import HTTPException from typing import List from sqlalchemy.orm import Session from . import models, schemas from .database import SessionLocal, engine models.</description>
     </item>
     <item>
       <title>My Test5 Repo</title>
-      <link>https://tomohiro-kobayashi.github.io/my-test5-repo/</link>
+      <link>http://localhost/my-test5-repo/</link>
       <pubDate>Sun, 31 Dec 2023 03:35:33 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/my-test5-repo/</guid>
+      <guid>http://localhost/my-test5-repo/</guid>
       <description>見出し1 markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
 見出し2 markdownサンプル文章です。ここは地の文です。
@@ -64,9 +64,9 @@ markdownでは、箇条書きは*や-などの記号を文頭に置くことで�
     </item>
     <item>
       <title>My Test4 Repo</title>
-      <link>https://tomohiro-kobayashi.github.io/my-test4-repo/</link>
+      <link>http://localhost/my-test4-repo/</link>
       <pubDate>Sun, 31 Dec 2023 03:35:30 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/my-test4-repo/</guid>
+      <guid>http://localhost/my-test4-repo/</guid>
       <description>見出し1 markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
 見出し2 markdownサンプル文章です。ここは地の文です。
@@ -82,9 +82,9 @@ markdownでは、箇条書きは*や-などの記号を文頭に置くことで�
     </item>
     <item>
       <title>My Test3 Repo</title>
-      <link>https://tomohiro-kobayashi.github.io/my-test3-repo/</link>
+      <link>http://localhost/my-test3-repo/</link>
       <pubDate>Sun, 31 Dec 2023 03:35:27 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/my-test3-repo/</guid>
+      <guid>http://localhost/my-test3-repo/</guid>
       <description>見出し1 markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
 見出し2 markdownサンプル文章です。ここは地の文です。
@@ -100,9 +100,9 @@ markdownでは、箇条書きは*や-などの記号を文頭に置くことで�
     </item>
     <item>
       <title>My Test2 Repo</title>
-      <link>https://tomohiro-kobayashi.github.io/my-test2-repo/</link>
+      <link>http://localhost/my-test2-repo/</link>
       <pubDate>Sun, 31 Dec 2023 03:30:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/my-test2-repo/</guid>
+      <guid>http://localhost/my-test2-repo/</guid>
       <description>見出し1 markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
 見出し2 markdownサンプル文章です。ここは地の文です。
@@ -118,9 +118,9 @@ markdownでは、箇条書きは*や-などの記号を文頭に置くことで�
     </item>
     <item>
       <title>My Test Repo</title>
-      <link>https://tomohiro-kobayashi.github.io/my-test-repo/</link>
+      <link>http://localhost/my-test-repo/</link>
       <pubDate>Sun, 31 Dec 2023 03:27:30 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/my-test-repo/</guid>
+      <guid>http://localhost/my-test-repo/</guid>
       <description>見出し1 markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
 見出し2 markdownサンプル文章です。ここは地の文です。
@@ -136,9 +136,9 @@ markdownでは、箇条書きは*や-などの記号を文頭に置くことで�
     </item>
     <item>
       <title>My Second Repo</title>
-      <link>https://tomohiro-kobayashi.github.io/my-fipth-repo/</link>
+      <link>http://localhost/my-fipth-repo/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/my-fipth-repo/</guid>
+      <guid>http://localhost/my-fipth-repo/</guid>
       <description>見出し1 markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
 見出し2 markdownサンプル文章です。ここは地の文です。
@@ -154,9 +154,9 @@ markdownでは、箇条書きは*や-などの記号を文頭に置くことで�
     </item>
     <item>
       <title>My Second Repo</title>
-      <link>https://tomohiro-kobayashi.github.io/my-forth-repo/</link>
+      <link>http://localhost/my-forth-repo/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/my-forth-repo/</guid>
+      <guid>http://localhost/my-forth-repo/</guid>
       <description>見出し1 markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
 見出し2 markdownサンプル文章です。ここは地の文です。
@@ -172,9 +172,9 @@ markdownでは、箇条書きは*や-などの記号を文頭に置くことで�
     </item>
     <item>
       <title>My Second Repo</title>
-      <link>https://tomohiro-kobayashi.github.io/my-second-repo/</link>
+      <link>http://localhost/my-second-repo/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/my-second-repo/</guid>
+      <guid>http://localhost/my-second-repo/</guid>
       <description>見出し1 markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
 見出し2 markdownサンプル文章です。ここは地の文です。
@@ -190,9 +190,9 @@ markdownでは、箇条書きは*や-などの記号を文頭に置くことで�
     </item>
     <item>
       <title>My Second Repo</title>
-      <link>https://tomohiro-kobayashi.github.io/my-third-repo/</link>
+      <link>http://localhost/my-third-repo/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/my-third-repo/</guid>
+      <guid>http://localhost/my-third-repo/</guid>
       <description>見出し1 markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
 見出し2 markdownサンプル文章です。ここは地の文です。
@@ -208,9 +208,9 @@ markdownでは、箇条書きは*や-などの記号を文頭に置くことで�
     </item>
     <item>
       <title>My Second Repo TEST Repository</title>
-      <link>https://tomohiro-kobayashi.github.io/my-first-repo/</link>
+      <link>http://localhost/my-first-repo/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/my-first-repo/</guid>
+      <guid>http://localhost/my-first-repo/</guid>
       <description>見出し1 markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
 見出し2 markdownサンプル文章です。ここは地の文です。

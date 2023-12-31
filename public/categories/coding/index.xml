@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>coding on Tomo Tech Blog</title>
-    <link>https://tomohiro-kobayashi.github.io/categories/coding/</link>
+    <link>http://localhost/categories/coding/</link>
     <description>Recent content in coding on Tomo Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 30 Dec 2023 23:36:44 +0900</lastBuildDate>
-    <atom:link href="https://tomohiro-kobayashi.github.io/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost/categories/coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Second Repo</title>
-      <link>https://tomohiro-kobayashi.github.io/my-forth-repo/</link>
+      <link>http://localhost/my-forth-repo/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/my-forth-repo/</guid>
+      <guid>http://localhost/my-forth-repo/</guid>
       <description>見出し1 markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
 見出し2 markdownサンプル文章です。ここは地の文です。
@@ -28,9 +28,9 @@ markdownでは、箇条書きは*や-などの記号を文頭に置くことで�
     </item>
     <item>
       <title>My Second Repo</title>
-      <link>https://tomohiro-kobayashi.github.io/my-second-repo/</link>
+      <link>http://localhost/my-second-repo/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/my-second-repo/</guid>
+      <guid>http://localhost/my-second-repo/</guid>
       <description>見出し1 markdownサンプル文章です。ここは地の文です。
 markdownでは、箇条書きは*や-などの記号を文頭に置くことで記述します。箇条書きの階層は行頭スペース4つを足します。
 見出し2 markdownサンプル文章です。ここは地の文です。

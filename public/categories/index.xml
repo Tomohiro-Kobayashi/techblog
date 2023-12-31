@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tomo Tech Blog</title>
-    <link>https://tomohiro-kobayashi.github.io/categories/</link>
+    <link>http://localhost/categories/</link>
     <description>Recent content in Categories on Tomo Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 31 Dec 2023 03:35:39 +0900</lastBuildDate>
-    <atom:link href="https://tomohiro-kobayashi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>general</title>
-      <link>https://tomohiro-kobayashi.github.io/categories/general/</link>
+      <link>http://localhost/categories/general/</link>
       <pubDate>Sun, 31 Dec 2023 03:35:39 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/categories/general/</guid>
+      <guid>http://localhost/categories/general/</guid>
       <description></description>
     </item>
     <item>
       <title>AWS</title>
-      <link>https://tomohiro-kobayashi.github.io/categories/aws/</link>
+      <link>http://localhost/categories/aws/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/categories/aws/</guid>
+      <guid>http://localhost/categories/aws/</guid>
       <description></description>
     </item>
     <item>
       <title>blog</title>
-      <link>https://tomohiro-kobayashi.github.io/categories/blog/</link>
+      <link>http://localhost/categories/blog/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/categories/blog/</guid>
+      <guid>http://localhost/categories/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>coding</title>
-      <link>https://tomohiro-kobayashi.github.io/categories/coding/</link>
+      <link>http://localhost/categories/coding/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/categories/coding/</guid>
+      <guid>http://localhost/categories/coding/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>https://tomohiro-kobayashi.github.io/categories/docker/</link>
+      <link>http://localhost/categories/docker/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/categories/docker/</guid>
+      <guid>http://localhost/categories/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>JavaScript</title>
-      <link>https://tomohiro-kobayashi.github.io/categories/javascript/</link>
+      <link>http://localhost/categories/javascript/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/categories/javascript/</guid>
+      <guid>http://localhost/categories/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>life</title>
-      <link>https://tomohiro-kobayashi.github.io/categories/life/</link>
+      <link>http://localhost/categories/life/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/categories/life/</guid>
+      <guid>http://localhost/categories/life/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>https://tomohiro-kobayashi.github.io/categories/linux/</link>
+      <link>http://localhost/categories/linux/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/categories/linux/</guid>
+      <guid>http://localhost/categories/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>metal</title>
-      <link>https://tomohiro-kobayashi.github.io/categories/metal/</link>
+      <link>http://localhost/categories/metal/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/categories/metal/</guid>
+      <guid>http://localhost/categories/metal/</guid>
       <description></description>
     </item>
     <item>
       <title>music</title>
-      <link>https://tomohiro-kobayashi.github.io/categories/music/</link>
+      <link>http://localhost/categories/music/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/categories/music/</guid>
+      <guid>http://localhost/categories/music/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://tomohiro-kobayashi.github.io/categories/python/</link>
+      <link>http://localhost/categories/python/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/categories/python/</guid>
+      <guid>http://localhost/categories/python/</guid>
       <description></description>
     </item>
     <item>
       <title>test</title>
-      <link>https://tomohiro-kobayashi.github.io/categories/test/</link>
+      <link>http://localhost/categories/test/</link>
       <pubDate>Sat, 30 Dec 2023 23:36:44 +0900</pubDate>
-      <guid>https://tomohiro-kobayashi.github.io/categories/test/</guid>
+      <guid>http://localhost/categories/test/</guid>
       <description></description>
     </item>
   </channel>
