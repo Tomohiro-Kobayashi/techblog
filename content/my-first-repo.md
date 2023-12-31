@@ -3,11 +3,11 @@ title = 'My Second Repo TEST Repository'
 date = 2023-12-30T23:36:44+09:00
 draft = false
 description = "This is description"
-image = "/images/1s.webp"
-imageBig = "/images/1b.webp"
+image = "https://tomohiro-kobayashi.github.io/techblog/images/1s.webp"
+imageBig = "https://tomohiro-kobayashi.github.io/techblog/images/1b.webp"
 categories = ["general", "life", "music"]
 authors = ["Tomohiro"]
-avatar = "/images/icon.webp"
+avatar = "https://tomohiro-kobayashi.github.io/techblog/images/icon.webp"
 +++
 
 # 見出し1
