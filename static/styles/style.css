@@ -2,12 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Noto+Sans+JP&family=Noto+Serif+JP&family=Rampart+One&family=Train+One&display=swap');
 
 :root {
-    --bg: #e2e2e2;
-    --bgSoft: #5fb8af;
-    --text: rgb(50, 50, 50);
-    --textSoft: #1d5e59;
+    --bg: #e1e1e1;
+    --subBg: #e9e9e9 ;
+    --text: #2a2a2a;
+    --textSoft: #cacaca;
 
-    --mainColor: #399494;
+    --mainColor: #333333;
+    --subColor: #f2f2f2 ;
 }
 
 * {
@@ -45,7 +46,6 @@ a {
     top: 0;
     padding-bottom: 20px;
     z-index: 999;
-    
 
 }
 
@@ -59,13 +59,14 @@ a {
 }
 
 .logo {
+    color: var(--textSoft);
     font-size: bold;
     font-size: 32px;
     margin-left: 20px;
-    font-family: 'Hachi Maru Pop', sans-serif;
 }
 
 .links {
+    color: var(--textSoft);
     display: flex;
     align-items: center;
     gap: 20px;
@@ -103,18 +104,41 @@ a {
 /* footer end */
 
 
+/* hero start */
+
+.heroContainer {
+    height: 300px;
+    background-color: var(--subBg);
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* hero end */
+
+
 /* list start */
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .listItem {
-    width: 90vw;
+    width: 45%;
+    background-color: var(--subColor);
     display: flex;
     align-items: center;
     gap: 30px;
-    margin-bottom: 20px;
+    margin: 10px;
     border-radius: 10px;
-    box-shadow: 0px 0px 15px -5px #777777;
+    position:relative;
+    box-shadow:none;
     padding: 10px;
 
 }
+
 
 .listItemTitle {
     font-size: 22px;
@@ -292,8 +316,10 @@ a {
 }
 .singleContent h1{
     background-color: var(--mainColor);
+    color: var(--textSoft);
     padding: 20px;
     margin: 10px 0px;
+    border-radius: 5px;
 }
 .singleContent h2{
     color: var(--mainColor);
@@ -364,7 +390,7 @@ a {
 }
 
 .agendaContainer {
-    background-color: #bababa;
+    background-color: var(--subColor);
     border-radius: 5px;
     padding: 10px;
 
@@ -393,6 +419,10 @@ a {
 @media (max-width:1336px) {
     .container {
         max-width: 1280px;
+    }
+
+    .listItem {
+        width: 100%;
     }
 }
 
@@ -458,9 +488,9 @@ a {
     .container {
         max-width: 640px;
     }
-    .singleHeadImg{
+    /* .singleHeadImg{
         max-width: 300px;
-    }
+    } */
 
     .listItemImage{
         display: none;

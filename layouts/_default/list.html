@@ -1,9 +1,10 @@
 {{define "main"}}
 
+<div class="heroContainer">
+    {{partial "hero" .}}
+</div>
+
 <div class="list">
-    {{/*  <div class="">
-        {{partial "hero" .}}
-    </div>  */}}
     {{range .Paginator.Pages}}
      <div class="listItem">
         <img src={{ .Params.image }} alt={{ .Title }} class="listItemImage" loading="lazy">
