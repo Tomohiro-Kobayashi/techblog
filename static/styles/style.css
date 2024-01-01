@@ -370,7 +370,10 @@ a {
 .singleContent p{
     font-size: 26px;
     line-height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
+
 .singleContent h1{
     background-color: var(--mainColor);
     color: var(--textSoft);
@@ -380,7 +383,8 @@ a {
 }
 .singleContent h2{
     color: var(--mainColor);
-    padding: 0.25em;
+
+    padding: 0.55em;
     margin-bottom: 10px;
     border-top: solid 2px #52c2cc;
     border-bottom: solid 2px #52c2cc;
@@ -392,6 +396,7 @@ a {
     color: var(--mainColor);
     position: relative;
     margin: 10px 0px;
+    
 }
 
 .singleContent h3:after{
@@ -409,10 +414,11 @@ a {
 
 .singleContent pre{
     font-size: 18px;
-    width: 100%;
+    margin: 20px;
     overflow-x: scroll;
     padding: 20px;
     border-radius: 10px;
+
 }
 
 .singleContent img{
