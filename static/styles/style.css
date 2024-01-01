@@ -624,7 +624,6 @@ a {
     }
 
 
-    
     .singleHeadImg{
         max-width: 300px;
         max-height: 150px;
@@ -656,6 +655,13 @@ a {
     .container {
         max-width: 475px;
     }
+
+
+    .hero img {
+        width: 100px;
+        height: 100px;
+    }
+
 
         /* navbar start */
 
