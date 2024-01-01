@@ -10,13 +10,16 @@
                 {{end}}
             </div>
 
-            <div class="singleHeadDetail">
-                <img src={{ .Params.avatar }} loading="lazy" alt="" class="singleAvatar" >
-                <span>
-                    {{range (.GetTerms "authors")}}
-                    <a href={{ .Permalink }} > {{ .Name }} </a>
-                    {{end}}
-                </span> 
+            <div>
+                <div class="singleHeadDetail">
+                    <img src={{ .Params.avatar }} loading="lazy" alt="" class="singleAvatar" >
+                    <span>
+                        {{range (.GetTerms "authors")}}
+                        <a href={{ .Permalink }} > {{ .Name }} </a>
+                        {{end}}
+                    </span>
+                </div>
+
                 <time>Date : {{ dateFormat .Site.Params.dateFormat .Date }}</time>
             </div>     
         </div>
@@ -28,8 +31,8 @@
             <div class="singleProfile">
                 <img src={{ .Params.avatar }} loading="lazy" alt="" class="singleAvatar" >
                 <div>
-                    Name : Tomohiro Kobayashi <br>
-                    Job : Software Enginner
+                    Tomohiro Kobayashi <br>
+                    Software Enginner
                 </div>
                 <div>
                     
