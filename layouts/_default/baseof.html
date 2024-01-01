@@ -1,21 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head prefix="og: https://ogp.me/ns#">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content={{or .Params.description .Site.Params.description}}>
     {{/*  <link rel="stylesheet" href="https://tomohiro-kobayashi.github.io/techblog/styles/style.css" >  */}}
+    <link rel="icon" href="/techblog/images/common/favicon.ico" id="favicon">
     <link rel="stylesheet" href="/techblog/styles/style.css" >
+    
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap" rel="stylesheet">
+
+    <meta property="og:url" content="https://tomohiro-kobayashi.github.io/techblog/" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Tomo Tech Blog" />
+    <meta property="og:description" content="個人ブログ" />
+    <meta property="og:site_name" content="tech blog" />
+    <meta property="og:image" content="/techblog/images/common/noimage.webp" />
+
     <title>{{ .Title }}</title>
 </head>
+
 <body>
     <div class="navbarContainer">
         {{ partial "navbar" . }}
     </div>
-
-
     <div class="container">
         {{ block "main" . }} {{end}}
         {{ partial "footer" . }}

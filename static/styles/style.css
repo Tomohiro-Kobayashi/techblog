@@ -183,7 +183,6 @@ a {
     backdrop-filter: blur(10px);
     box-shadow: 0 5px 20px rgba(148, 148, 148, 0.5); /* 薄い影 */
 
-
     display: flex;
     align-items: center;
     gap: 10px;
@@ -197,7 +196,7 @@ a {
 
 
 .listItemTitle {
-    font-size: 22px;
+    font-size: 28px;
 }
 
 .listItemImage{
@@ -215,7 +214,7 @@ a {
 }
 
 .listItemTexts time{
-    font-size: 12px;
+    font-size: 18px;
 }
 
 .listItemDetail {
@@ -226,7 +225,7 @@ a {
 }
 
 .listItemDesc {
-    font-size: 12px;
+    font-size: 18px;
     /* max-width: 30vw; */
     overflow-wrap: break-word;   
     overflow: hidden;
@@ -311,8 +310,8 @@ a {
 }
 
 .singleHeadDesc{
-    font-size: 20px;
-    font-weight: 300;
+    font-size: 26px;
+    line-height: 40px;
 
     overflow-wrap: break-word;  
 }
@@ -369,7 +368,8 @@ a {
 }
 
 .singleContent p{
-
+    font-size: 26px;
+    line-height: 40px;
 }
 .singleContent h1{
     background-color: var(--mainColor);
@@ -455,17 +455,16 @@ a {
 }
 
 
-
 .agendaContainer nav{
+    font-size: 20px;
     position: relative;
     color: var(--text) ;/* 文字色 */
 
-    
+    margin: auto;
     padding: 50px 25px 15px 45px;
-    width: 97%!important;
-    margin: 2em auto;
+    width: 100%!important;
+ 
     box-sizing: border-box;
-
     background-color: rgba(255, 255, 255, 0.1); /* 背景色 */
     border: 1px solid rgba(255, 255, 255, 0.4); /* ボーダー */
     border-right-color: rgba(255, 255, 255, 0.2);
@@ -482,7 +481,7 @@ a {
     font-weight: bold;
     font-size: 130%;
     padding-left: 3px;
-    margin: 0;
+
     position: absolute;
     top: 15px;
     left: 10px;
@@ -492,6 +491,7 @@ a {
 }
 
 .agendaContainer nav:after{
+
     display: block;
     content: 'Agenda';
     font-weight: bold;
@@ -503,6 +503,7 @@ a {
 }
 
 .agendaContainer nav li{
+    
     list-style-type: decimal;/* 番号振り */
     margin-left: 0;
 }
@@ -647,7 +648,6 @@ a {
     .links {
         font-size: 14px;
     }
-
 }
 
 @media (max-width:640px) {

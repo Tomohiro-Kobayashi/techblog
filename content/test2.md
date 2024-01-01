@@ -2,12 +2,12 @@
 title = '既存のS3バケットのオブジェクトロックの有効化がマネジメントコンソールからできるようになりました'
 date = 2023-12-31T21:38:51+09:00
 draft = false
-description = "あああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああいいいいいいいいいいいいいいいいいいいああ"
+description = "サンプルディスクリプション"
 image = "/techblog/images/amazon.webp"
 imageBig = "/techblog/images/amazon.webp"
 categories = ["general", "AWS", "Docker", "Python", "機械学習", "深層学習", "AI"]
 authors = ["Tomohiro"]
-avatar = "https://tomohiro-kobayashi.github.io/techblog/images/icon.webp"
+avatar = "/techblog/images/common/icon.webp"
 +++
 
 # 概要
@@ -48,6 +48,16 @@ test()
 ### 見出し1.1
 
 ### 見出し1.2
+
+![](/techblog/images/sample1.pngT)
+
+### 見出し1.3
+
+### 見出し1.3
+
+### 見出し1.3
+
+![](/techblog/images/sample2.png)
 
 ### 見出し1.3
 
