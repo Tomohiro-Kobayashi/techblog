@@ -49,7 +49,7 @@ test()
 
 ### 見出し1.2
 
-![](/techblog/images/sample1.pngT)
+![](/techblog/images/sample1.png)
 
 ### 見出し1.3
 
