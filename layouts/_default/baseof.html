@@ -14,7 +14,13 @@
     <div class="navbarContainer">
         {{ partial "navbar" . }}
     </div>
+    
+    <div class="heroContainer">
+        {{partial "hero" .}}
+    </div>
+
     <div class="container">
+        
         {{ block "main" . }} {{end}}
         {{ partial "footer" . }}
     </div>

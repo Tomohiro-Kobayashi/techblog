@@ -1,6 +1,6 @@
 +++
-title = 'Sample7'
-date = 2024-01-01T01:06:43+09:00
+title = 'Sample'
+date = 2024-01-01T18:29:09+09:00
 draft = false
 description = ""
 image = "/techblog/images/noimage.webp"

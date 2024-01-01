@@ -4,6 +4,12 @@
         <div class="singleHeadTexts">
             <h1 class="singleHeadTitle">{{.Title}}</h1>
             <p class="singleHeadDesc">{{ .Params.description }}</p>
+            <div class="singleTag">
+                {{range (.GetTerms "categories")}}
+                <a href={{ .Permalink }} class="singleCategory" >#{{ .Name }} </a>
+                {{end}}
+            </div>
+
             <div class="singleHeadDetail">
                 <img src={{ .Params.avatar }} loading="lazy" alt="" class="singleAvatar" >
                 <span>
@@ -11,13 +17,8 @@
                     <a href={{ .Permalink }} > {{ .Name }} </a>
                     {{end}}
                 </span> 
-                <div class="singleTag">
-                    {{range (.GetTerms "categories")}}
-                    <a href={{ .Permalink }} class="singleCategory" >#{{ .Name }} </a>
-                    {{end}}
-                </div>
-            </div>
-            <time>Date : {{ dateFormat .Site.Params.dateFormat .Date }}</time>
+                <time>Date : {{ dateFormat .Site.Params.dateFormat .Date }}</time>
+            </div>     
         </div>
         <img src={{ .Params.imageBig }} alt={{.Title}} class="singleHeadImg">
     </div>
@@ -25,12 +26,20 @@
         <div class="singleContent">
             {{ .Content }}
             <div class="singleProfile">
-                プロフィール内容
+                <img src={{ .Params.avatar }} loading="lazy" alt="" class="singleAvatar" >
+                <div>
+                    Name : Tomohiro Kobayashi <br>
+                    Job : Software Enginner
+                </div>
+                <div>
+                    
+                </div>
             </div>
         </div>
         <div class="singleRightBar">
             {{partial "rightBar" .}}
         </div>
     </div>
+    
 </div>
 {{end}}
