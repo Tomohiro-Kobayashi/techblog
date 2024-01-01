@@ -178,11 +178,11 @@ a {
 
 .listItem {
 
-    background-color: rgba(255, 255, 255, 0.3); /* 背景色 */
+    background-color: rgba(255, 255, 255, 0.01); /* 背景色 */
     border: 1px solid rgba(255, 255, 255, 0.4); /* ボーダー */
     border-right-color: rgba(255, 255, 255, 0.2);
     border-bottom-color: rgba(255, 255, 255, 0.2);
-    border-radius: 15px;
+    border-radius: 10px;
     -webkit-backdrop-filter: blur(20px); /* ぼかしエフェクト */
     backdrop-filter: blur(10px);
     box-shadow: 0 5px 20px rgba(148, 148, 148, 0.4); /* 薄い影 */
@@ -191,6 +191,7 @@ a {
     align-items: center;
     gap: 10px;
     margin: 10px;
+    margin-bottom: 20px;
     position:relative;
     padding: 10px;
 
@@ -199,6 +200,8 @@ a {
 
 .listItemTitle {
     font-size: 26px;
+    color: var(--textSoft);
+    
 }
 
 .listItemImage{
@@ -217,6 +220,7 @@ a {
 
 .listItemTexts time{
     font-size: 14px;
+    color: var(--textSoft);
 }
 
 .listItemDetail {
@@ -224,10 +228,12 @@ a {
     align-items: center;
     gap: 10px;
     font-size: 14px;
+    color: var(--textSoft);
 }
 
 .listItemDesc {
     font-size: 16px;
+    color: var(--textSoft);
     /* max-width: 30vw; */
     overflow-wrap: break-word;   
     overflow: hidden;
@@ -561,20 +567,21 @@ a {
 .genreList {
     color: var(--textSoft);
     margin-left: 5px;
-    width: 50%;
-    
+    width: 60%;
+    font-size: 16px;
+
     background-color: rgba(255, 255, 255, 0.01); /* 背景色 */
     border: 1px solid rgba(255, 255, 255, 0.4); /* ボーダー */
     border-right-color: rgba(255, 255, 255, 0.2);
     border-bottom-color: rgba(255, 255, 255, 0.2);
-    border-radius: 15px;
+    border-radius: 5px;
     -webkit-backdrop-filter: blur(20px); /* ぼかしエフェクト */
     backdrop-filter: blur(10px);
     box-shadow: 0 5px 20px rgba(148, 148, 148, 0.4); /* 薄い影 */
 }
 
 .genreList a{
-    font-size: 38px;
+    font-size: 26px;
 }
 
 /* genre list end */
@@ -769,4 +776,8 @@ a {
     }
     
         /* navbar end */
+
+    .genreList a{
+        font-size: 18px;
+    }
 }
