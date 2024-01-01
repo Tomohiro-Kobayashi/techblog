@@ -258,9 +258,16 @@ a {
 .listItemCategory{
     font-size: 14px;
     padding: 5px;
-    border-radius: 5px;
-    background-color: var(--mainColor);
     color: var(--textSoft);
+    background-color: rgba(255, 255, 255, 0.01); /* 背景色 */
+    border: 1px solid rgba(255, 255, 255, 0.4); /* ボーダー */
+    border-right-color: rgba(255, 255, 255, 0.2);
+    border-bottom-color: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    -webkit-backdrop-filter: blur(20px); /* ぼかしエフェクト */
+    backdrop-filter: blur(10px);
+    box-shadow: 0 5px 20px rgba(148, 148, 148, 0.4); /* 薄い影 */
+
 } 
 
 .pagination {
@@ -412,6 +419,7 @@ a {
 
 
 .singleContent h3{
+    z-index: 999;
     color: var(--mainColor);
     position: relative;
     padding: 0.4rem .5rem;
