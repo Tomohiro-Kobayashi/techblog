@@ -20,11 +20,19 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### 見出し1.1
 
+[アンカーテキスト](https://zenn.dev/zenn/articles/markdown-guide)
+
 #### 見出し1.1.1
+
+| 左揃え | 中央揃え | 右揃え |
+|:---|:---:|---:|
+|1 |2 |3 |
+|4 |5 |6 |
+
 
 ## pythonコード
 
-```python
+```python:test.py
 import os
 
 def test():
@@ -37,4 +45,4 @@ test()
 ## 画像差し込み
 
 ![](/techblog/images/windows11-bk.jpg)
-
+*キャプション*

@@ -54,9 +54,9 @@ a {
     background-image: url("/techblog/images/common/back5.webp");
 
     /* background-attachment: fixed; */
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
+    /* background-repeat: no-repeat; */
+    /* background-position: center center; */
+    /* background-size: cover; */
     
 
 }
@@ -95,16 +95,6 @@ a {
     margin-right: 20px;
 }
 
-.searchButton {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    background-color: var(--bgSoft);
-    color: var(--textSoft);
-    padding: 5px;
-    border-radius: 10px;
-}
-
 /* navbar end */
 
 /* footer start */
@@ -134,6 +124,8 @@ a {
 .heroContainer {
 
     margin: auto;
+    margin-top: 0;
+    margin-bottom: 0;
     width: 100%;
 
     padding-left: 10px;
@@ -249,6 +241,7 @@ a {
     gap: 10px;
     font-size: 14px;
     color: var(--textSoft);
+    
 }
 
 .listItemDesc {
@@ -723,7 +716,6 @@ a {
         display: flex;
         flex-direction: column;
     }
-
 
     .listItemTitle {
         font-size: 20px;
