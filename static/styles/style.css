@@ -181,7 +181,6 @@ a {
   -webkit-backdrop-filter: blur(20px); /* ぼかしエフェクト */
   backdrop-filter: blur(10px);
   box-shadow: 0 5px 20px rgba(148, 148, 148, 0.4); /* 薄い影 */
- 
 
   display: flex;
   align-items: center;
@@ -470,7 +469,7 @@ a {
   word-break: break-all;
 }
 
-.singleContent pre::-webkit-scrollbar{
+.singleContent pre::-webkit-scrollbar {
   background: #000;
   width: 7px;
   height: 7px;
@@ -622,7 +621,6 @@ a {
   .singleContent {
     max-width: 1336px;
   }
-  
 }
 
 @media (max-width: 1280px) {
@@ -700,6 +698,10 @@ a {
   .singleContent p {
     font-size: 16px;
     line-height: 30px;
+  }
+
+  .singleContent pre {
+    font-size: 16px;
   }
 
   .listItem {
