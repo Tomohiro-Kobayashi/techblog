@@ -12,4 +12,12 @@ avatar = "/techblog/images/common/icon.webp"
 
 # 概要
 
-## 
+Ollama を AWS 上で起動し、プライベートな環境として生成 AI を利用する。
+
+## Ollama とは
+
+## AWS 上で起動
+
+## アクセスしてみる
+
+## まとめ
